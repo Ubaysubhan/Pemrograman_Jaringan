@@ -106,10 +106,10 @@ if __name__=='__main__':
     remote_list()
     
     # get
-    remote_get('donalbebek.jpg')
+    remote_get('pokijan.jpg')
     
     # delete
     remote_delete(filename="gambar-lalu-lintas-lucu-2.jpg")
     
     # post
-    remote_post(filename="pokijan")
+    remote_post(filename="donalbebek.jpg")
